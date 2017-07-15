@@ -1,5 +1,5 @@
 #include <iostream>
-
+// Created by sheep1500 on 2017. 07. 15
 using namespace std;
 int num1 = 0;
 int num0 = 0;
