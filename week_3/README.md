@@ -27,12 +27,12 @@
     - 이전의 연속 합을 더 했을 때 지금보다 작아진다면 합할 이유가 없습니다
  - [1463번](https://github.com/sungjunyoung/algorithm-study/blob/master/week_3/1463_tjdwn9410.cpp)
     - N에서 1을 만드는 방법을 역으로 1에서 N을 만드는 방식으로 접근해서 풀수도 있습니다.
-    
+
  - 김민호
  	- [2579번](https://github.com/sungjunyoung/algorithm-study/tree/master/week_3/2579_dolplusi.cpp)
- 		- 문제 힌트 : 점화식을 구할 때 이차원 배열로 하였습니다. 
+ 		- 문제 힌트 : 점화식을 구할 때 이차원 배열로 하였습니다.
  		1. 계단이 연속으로 붙여진 뒤 n칸의 계단으로 올라왔을 때
- 		2. 계단이 한 칸 띄워진 뒤 n칸의 계단으로 올라왔을 때 
+ 		2. 계단이 한 칸 띄워진 뒤 n칸의 계단으로 올라왔을 때
  	- [1932번](https://github.com/sungjunyoung/algorithm-study/tree/master/week_3/1932_dolplusi.cpp)
  		- stack 메모리 부족으로 stack overflow가 나는 경우
  		[visual studio에서 stack overflow 해결 방법](http://ocllos.tistory.com/39)
@@ -66,4 +66,4 @@
 - 강석윤 :
 - 정소현 :
 - 김성주 :
-- 김민호 : 
+- 김민호 :
